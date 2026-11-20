@@ -9,4 +9,4 @@ spring:
       ddl-auto: update
     show-sql: true
 
-message : Welcome in Development Environment
+message : Hello from Development Environment
